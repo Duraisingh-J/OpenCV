@@ -348,50 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- OpenCV Community for excellent documentation
-- Python Software Foundation
-- All contributors and testers
-
----
-
-## 📞 Support
-
-- 📧 Email: support@example.com
-- 💬 Discord: [Join our server](https://discord.gg/yourserver)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/vision-assistant/issues)
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Hand gesture recognition
-- [ ] QR code scanning
-- [ ] Facial landmark detection
-- [ ] Multi-object tracking
-- [ ] Video recording capability
-- [ ] Mobile app version
-- [ ] GPU acceleration support
-- [ ] Custom model training interface
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful! ⭐**
 
 Made with ❤️ and OpenCV
-
-[Report Bug](https://github.com/yourusername/vision-assistant/issues) · [Request Feature](https://github.com/yourusername/vision-assistant/issues) · [Documentation](https://github.com/yourusername/vision-assistant/wiki)
-
+        
 </div>
